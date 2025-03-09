@@ -22,7 +22,6 @@ FOREIGN KEY(category_id) REFERENCES categories(category_id) ON DELETE CASCADE
 CREATE TABLE ingredients (
  ingredient_id INT AUTO_INCREMENT PRIMARY KEY,
  name VARCHAR(150) NOT NULL
-
 )
 
 CREATE TABLE recipe_ingredients(
