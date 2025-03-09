@@ -1,0 +1,26 @@
+{
+  "name": "data-bases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Volodymyr-coder/data-bases.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Volodymyr-coder/data-bases/issues"
+  },
+  "homepage": "https://github.com/Volodymyr-coder/data-bases#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.13.0"
+  }
+}
